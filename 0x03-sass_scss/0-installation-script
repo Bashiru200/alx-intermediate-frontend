@@ -1,0 +1,8 @@
+Step 1. Install node version 20.16 (version is optional) with the command:
+curl -0- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+for Linux OS. Note:install it globally from your terminal.
+
+Step 2. Close the terminal with the "close" command and reopen it.
+
+Step 3. Install SASS by using the following command it you have node already installed:
+npm install sass -v 3.7.4 (version optional)
